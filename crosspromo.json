@@ -1,1 +1,160 @@
+{
+  "games": [
+    {
+      "id": "makeup-organizer",
+      "title": "Fill The Makeup Organizer Game",
+      "packageName": "com.tg.fill.the.makeup.organizer.game",
+      "asin": "B0CNQCSKCY",
+      "storeUrl": "https://www.amazon.com/gp/mas/dl/android?initiatePurchaseFlow=true&asin=B0CNQCSKCY",
+      "bannerImage": "banners/makeup-organizer.png",
+      "interstitialImagePortrait": "interstitials/portrait/makeup-organizer.png",
+      "interstitialImageLandscape": "interstitials/landscape/makeup-organizer.png",
+      "enabled": true
+    },
+    {
+      "id": "plane-emergency-landing",
+      "title": "Plane Crash Emergency Landing",
+      "packageName": "Com.gbs.plane.crash.landing",
+      "asin": "B0CXKKFK37",
+      "storeUrl": "https://www.amazon.com/gp/mas/dl/android?initiatePurchaseFlow=true&asin=B0CXKKFK37",
+      "bannerImage": "banners/plane-emergency-landing.png",
+      "interstitialImagePortrait": "interstitials/portrait/plane-emergency-landing.png",
+      "interstitialImageLandscape": "interstitials/landscape/plane-emergency-landing.png",
+      "enabled": true
+    },
+    {
+      "id": "planet-destruction",
+      "title": "Planet Destruction Simulator",
+      "packageName": "com.gb.solar.smash.game",
+      "asin": "B0GKPN4Z67",
+      "storeUrl": "https://www.amazon.com/gp/mas/dl/android?initiatePurchaseFlow=true&asin=B0GKPN4Z67",
+      "bannerImage": "banners/planet-destruction.png",
+      "interstitialImagePortrait": "interstitials/portrait/planet-destruction.png",
+      "interstitialImageLandscape": "interstitials/landscape/planet-destruction.png",
+      "enabled": true
+    },
+    {
+      "id": "flexbody-car-crash",
+      "title": "Flexbody Car Crash Games Simulator",
+      "packageName": "com.tg.car.crash.simulator.games",
+      "asin": "B0CLKVWX44",
+      "storeUrl": "https://www.amazon.com/gp/mas/dl/android?initiatePurchaseFlow=true&asin=B0CLKVWX44",
+      "bannerImage": "banners/flexbody-car-crash.png",
+      "interstitialImagePortrait": "interstitials/portrait/flexbody-car-crash.png",
+      "interstitialImageLandscape": "interstitials/landscape/flexbody-car-crash.png",
+      "enabled": true
+    },
+    {
+      "id": "motocross-championship",
+      "title": "Motocross Dirt Bike Championship",
+      "packageName": "com.tgs.dirt.bike.racing.champions",
+      "asin": "B0BXFQC7C4",
+      "storeUrl": "https://www.amazon.com/gp/mas/dl/android?initiatePurchaseFlow=true&asin=B0BXFQC7C4",
+      "bannerImage": "banners/motocross-championship.png",
+      "interstitialImagePortrait": "interstitials/portrait/motocross-championship.png",
+      "interstitialImageLandscape": "interstitials/landscape/motocross-championship.png",
+      "enabled": true
+    },
+    {
+      "id": "counter-terrorist",
+      "title": "Counter Terrorist Shoot Strike , FPS Shooting Gun GamesCounter Terrorist Shoot Strike",
+      "packageName": "com.tg.counter.terrorist.shoot.strike",
+      "asin": "B0CDSRWT8D",
+      "storeUrl": "https://www.amazon.com/gp/mas/dl/android?initiatePurchaseFlow=true&asin=B0CDSRWT8D",
+      "bannerImage": "banners/counter-terrorist.png",
+      "interstitialImagePortrait": "interstitials/portrait/counter-terrorist.png",
+      "interstitialImageLandscape": "interstitials/landscape/counter-terrorist.png",
+      "enabled": true
+    },
+    {
+      "id": "home-cleanup",
+      "title": "Satisfying Home Cleanup Deep Clean ASMR",
+      "packageName": "com.gb.home.deep.clean.pressure.washing",
+      "asin": "B0DLQNB8V7",
+      "storeUrl": "https://www.amazon.com/gp/mas/dl/android?initiatePurchaseFlow=true&asin=B0DLQNB8V7",
+      "bannerImage": "banners/home-cleanup.png",
+      "interstitialImagePortrait": "interstitials/portrait/home-cleanup.png",
+      "interstitialImageLandscape": "interstitials/landscape/home-cleanup.png",
+      "enabled": true
+    },
+    {
+      "id": "plane-flight-simulator",
+      "title": "Plane Crash Landing Flight Simulator 2026",
+      "packageName": "com.gbs.plane.crash.landing.simulator",
+      "asin": "B0CVCJ65QQ",
+      "storeUrl": "https://www.amazon.com/gp/mas/dl/android?initiatePurchaseFlow=true&asin=B0CVCJ65QQ",
+      "bannerImage": "banners/plane-flight-simulator.png",
+      "interstitialImagePortrait": "interstitials/portrait/plane-flight-simulator.png",
+      "interstitialImageLandscape": "interstitials/landscape/plane-flight-simulator.png",
+      "enabled": true
+    },
+    {
+      "id": "hair-salon",
+      "title": "Hair Salon Haircut Game",
+      "packageName": "com.gb.barber.shop.girls.hair.salon",
+      "asin": "B0DRPQF4RP",
+      "storeUrl": "https://www.amazon.com/gp/mas/dl/android?initiatePurchaseFlow=true&asin=B0DRPQF4RP",
+      "bannerImage": "banners/hair-salon.png",
+      "interstitialImagePortrait": "interstitials/portrait/hair-salon.png",
+      "interstitialImageLandscape": "interstitials/landscape/hair-salon.png",
+      "enabled": true
+    }
+  ],
+  "interstitials": [
+    {
+      "order": 1,
+      "gameId": "makeup-organizer",
+      "repeat": 1,
+      "enabled": true
+    },
+    {
+      "order": 2,
+      "gameId": "plane-emergency-landing",
+      "repeat": 1,
+      "enabled": true
+    },
+    {
+      "order": 3,
+      "gameId": "planet-destruction",
+      "repeat": 1,
+      "enabled": true
+    },
+    {
+      "order": 4,
+      "gameId": "flexbody-car-crash",
+      "repeat": 1,
+      "enabled": true
+    },
+    {
+      "order": 5,
+      "gameId": "motocross-championship",
+      "repeat": 1,
+      "enabled": true
+    },
+    {
+      "order": 6,
+      "gameId": "counter-terrorist",
+      "repeat": 1,
+      "enabled": true
+    },
+    {
+      "order": 7,
+      "gameId": "home-cleanup",
+      "repeat": 1,
+      "enabled": true
+    },
+    {
+      "order": 8,
+      "gameId": "plane-flight-simulator",
+      "repeat": 1,
+      "enabled": true
+    },
+    {
+      "order": 9,
+      "gameId": "hair-salon",
+      "repeat": 1,
+      "enabled": true
+    }
+  ]
+}
 
