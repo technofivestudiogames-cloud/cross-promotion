@@ -102,7 +102,7 @@
   ],
   "interstitials": [
     {
-      "order": 1,
+      "order": 3,
       "gameId": "makeup-organizer",
       "repeat": 1,
       "enabled": true
@@ -114,7 +114,7 @@
       "enabled": true
     },
     {
-      "order": 3,
+      "order": 1,
       "gameId": "planet-destruction",
       "repeat": 1,
       "enabled": true
