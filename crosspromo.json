@@ -104,19 +104,19 @@
     {
       "order": 3,
       "gameId": "makeup-organizer",
-      "repeat": 1,
+      "repeat": 2,
       "enabled": true
     },
     {
       "order": 2,
       "gameId": "plane-emergency-landing",
-      "repeat": 1,
+      "repeat": 2,
       "enabled": true
     },
     {
       "order": 1,
       "gameId": "planet-destruction",
-      "repeat": 1,
+      "repeat": 2,
       "enabled": true
     },
     {
